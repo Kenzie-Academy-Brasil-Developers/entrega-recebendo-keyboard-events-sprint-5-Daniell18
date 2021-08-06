@@ -1,0 +1,10 @@
+#box { 
+    width: 100px; 
+    height: 100px; 
+    position: absolute; 
+    left: 200px; 
+    top: 200px; 
+}
+body{
+    background-image: url(./gold-coin-drop-black-background-copy-space-d-rendering-187377573\ .jpg);
+}
